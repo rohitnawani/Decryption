@@ -1,4 +1,4 @@
-# decryption
+# Decryption
 This is a python script that decrypts mono-substitution cipher
 
 This was my first coding project and hence, it was written poorly but does the job. 
